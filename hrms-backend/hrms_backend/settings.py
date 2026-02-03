@@ -127,7 +127,6 @@ USE_TZ = True
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
-# Create staticfiles directory if it doesn't exist
 if not os.path.exists(STATIC_ROOT):
     os.makedirs(STATIC_ROOT)
 
