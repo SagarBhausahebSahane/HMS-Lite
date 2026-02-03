@@ -15,4 +15,3 @@ staticfiles/
 media/
 *.sqlite3
 .env
-requirements.txt
