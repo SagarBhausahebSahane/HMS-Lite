@@ -7,4 +7,3 @@ python-dotenv==0.19.2
 django-cors-headers==3.7.0
 whitenoise==6.4.0
 waitress==2.1.2
-cgi==1.2
